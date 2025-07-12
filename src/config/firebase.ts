@@ -4,19 +4,19 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyDveau0f7k--fHneztfEZkfCINLzLPnRtk",
+  apiKey: "",
 
-  authDomain: "skillsswap-8363d.firebaseapp.com",
+  authDomain: "",
 
-  projectId: "skillsswap-8363d",
+  projectId: "",
 
-  storageBucket: "skillsswap-8363d.firebasestorage.app",
+  storageBucket: "",
 
-  messagingSenderId: "842509217293",
+  messagingSenderId: "",
 
-  appId: "1:842509217293:web:2d783403852aeec2976f44",
+  appId: "",
 
-  measurementId: "G-2JDFWHBT92",
+  measurementId: "",
 };
 
 // Initialize Firebase
